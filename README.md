@@ -2,9 +2,9 @@
 
 ###########################################################
 
-Author:Dipayan Das;
+Author  :   Dipayan Das;
 
-Date:25-09-2018;
+Date    :   25-09-2018;
 
 Implemented: Branch Bound Algorithm for Feature selection Please refer to link for Learning the  feature selection Concept 
 
