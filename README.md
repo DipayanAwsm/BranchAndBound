@@ -6,7 +6,11 @@ Author:Dipayan Das;
 
 Date:25-09-2018;
 
-Implemented: Branch Bound Algorithm for Feature selection Please refer to link for Learning the  feature selection Concept  https://nptel.ac.in/courses/106106046/29
+Implemented: Branch Bound Algorithm for Feature selection Please refer to link for Learning the  feature selection Concept 
+
+https://nptel.ac.in/courses/106106046/29
+
+
 ###########################################################
 
  
