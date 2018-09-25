@@ -11,12 +11,22 @@ Implemented: Branch Bound Algorithm for Feature selection Please refer to link f
 https://nptel.ac.in/courses/106106046/29
 
 
+
+
 ###########################################################
 
  
 
 
+
+
+
+===============================================
+Some assumption 
 Let us suppose it is a maximize problem;
+Ths Code is based on Summation is our objective functionobjective function .
+Thouugh  you can implement JFunction interface and its jfunction(Collection<Double> input) ,compare(Node node1, Node Node2) to modify the code in BranchAndBoundMain that will do the work.
+===============================================
 
 
 ############################################
