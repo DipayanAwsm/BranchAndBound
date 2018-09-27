@@ -41,7 +41,10 @@ prerequisite
 
  ################### HOW TO RUN THE CODE #########################
  -----------------if you have the jar file then run---------------------------
- 1.   $java -cp BranchAndBound.jar com.dipayan.main.BranchAndBoundMain 1 2 3 4 5 6 7 8 9 10 11
+ 1.   $java -cp BranchAndBoundWithOutUnderScore.jar com.dipayan.main.BranchAndBoundMain 1 2 3 4 5 6 7 8 9 10 11
+ //This Allows all negetive numbers as well as Decimal numbers    
+ //Wish  you All the Best
+ Use
        
  		How many features you want
 		2
